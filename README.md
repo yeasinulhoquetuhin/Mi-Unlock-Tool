@@ -2,104 +2,103 @@
 Xiaomi Devices Bootloader Unlocker Android APK
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Mi+Unlock+Tool+Android+APK;By+Tuhin+Droid+Zone;Xiaomi+Bootloader+Unlock+Solution" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Mi+Unlock+Tool+Pro;Android+Bootloader+Unlocker;No+PC+Required!+🚀" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/yeasinulhoquetuhin/Mi-Unlock-Tool?style=for-the-badge&color=FF6B00" />
-  <img src="https://img.shields.io/github/stars/yeasinulhoquetuhin/Mi-Unlock-Tool?style=for-the-badge&color=FF6B00" />
-  <img src="https://img.shields.io/github/languages/top/yeasinulhoquetuhin/Mi-Unlock-Tool?style=for-the-badge&color=FF6B00" />
-</p>
-
----
-
-### 📱 Mi Unlock Tool সম্পর্কে
-Xiaomi, Redmi ও POCO ফোনের বুটলোডার আনলক করুন সরাসরি আপনার Android ফোন থেকে। কোনো পিসির ঝামেলা ছাড়াই Android 5.0+ সব ডিভাইসে এটি কাজ করে। সম্পূর্ণ বাংলা ইন্টারফেস এবং সহজ নির্দেশিকা সহ এটি ডিজাইন করা হয়েছে।
-
----
-
-### 📊 পরিসংখ্যান (Stats)
-| 📱 সমর্থিত ভার্সন | 🛡️ Android সাপোর্ট | ✅ সাফল্যের হার | 📅 সর্বশেষ আপডেট |
-| :---: | :---: | :---: | :---: |
-| Android 5.0 - 14 | ১০০% ডিভাইসে | ৯৮% সাকসেস | ফেব্রুয়ারি ২০২৬ |
-
----
-
-### 🛠️ ধাপে ধাপে গাইড (Step-by-Step Guide)
-
-<details>
-<summary><b>১. APK ডাউনলোড ও ইন্সটল (ক্লিক করুন)</b></summary>
-নিচের ডাউনলোড বাটন থেকে APK ডাউনলোড করুন। Settings → Security থেকে "Unknown Sources" অপশনটি অন করে অ্যাপটি ইন্সটল করুন।
-</details>
-
-<details>
-<summary><b>২. অ্যাকাউন্ট লগ ইন (ক্লিক করুন)</b></summary>
-আপনার ফোনের সাথে বাইন্ড করা Xiaomi অ্যাকাউন্ট দিয়ে অ্যাপে লগ ইন করুন। অ্যাকাউন্ট না থাকলে নতুন করে তৈরি করে নিন।
-</details>
-
-<details>
-<summary><b>৩. ডেভেলপার অপশন সেটিংস (ক্লিক করুন)</b></summary>
-Settings → About phone → MIUI version এ ৭ বার ট্যাপ করে Developer Options অন করুন। সেখান থেকে "OEM unlocking" এবং "USB debugging" চালু করুন।
-</details>
-
-<details>
-<summary><b>৪. বুটলোডার আনলক করুন (ক্লিক করুন)</b></summary>
-ফোনটি Fastboot মোডে নিয়ে (Volume Down + Power) পিসির সাথে বা সরাসরি কানেক্ট করে "Start Unlock" বাটনে ক্লিক করুন। 
-> **সতর্কতা:** আনলক করলে ফোনের সব ডেটা মুছে যাবে। আগে ব্যাকআপ নিন।
-</details>
-
----
-
-### 📥 ডাউনলোড করুন
-সবচেয়ে লেটেস্ট এবং সিকিউর ভার্সনটি এখান থেকে ডাউনলোড করুন:
-
-<div align="center">
-  <a href="লিংক_এখানে_দিন">
-    <img src="https://img.shields.io/badge/Download-GitHub_Release-FF6B00?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="লিংক_এখানে_দিন">
-    <img src="https://img.shields.io/badge/Download-Direct_Link-white?style=for-the-badge&logo=android&logoColor=FF6B00" />
-  </a>
+  <p align="center">
+    <img src="https://img.shields.io/github/v/release/yeasinulhoquetuhin/Mi-Unlock-Tool?style=for-the-badge&color=FF6B00&logo=github" />
+    <img src="https://img.shields.io/github/stars/yeasinulhoquetuhin/Mi-Unlock-Tool?style=for-the-badge&color=FF6B00&logo=github" />
+    <img src="https://img.shields.io/github/license/yeasinulhoquetuhin/Mi-Unlock-Tool?style=for-the-badge&color=FF6B00" />
+    <img src="https://img.shields.io/github/issues/yeasinulhoquetuhin/Mi-Unlock-Tool?style=for-the-badge&color=FF6B00" />
+  </p>
 </div>
 
 ---
 
-### ❓ সচরাচর জিজ্ঞাসিত প্রশ্ন (FAQ)
+### 🚀 Overview
+**Mi Unlock Tool** is a powerful Android application designed for Xiaomi, Redmi, and POCO users to unlock their device bootloaders directly from their smartphones. Eliminate the need for a PC and enjoy a seamless, mobile-native experience.
 
-**প্রশ্ন: ওয়ারেন্টি থাকবে কি আনলক করলে?**
-> উত্তর: সাধারণত বুটলোডার আনলক করলে হার্ডওয়্যার ওয়ারেন্টি বাতিল হয়। তবে এটি পুনরায় লক করা সম্ভব।
-
-**প্রশ্ন: কোন ডিভাইসে কাজ করবে?**
-> উত্তর: প্রায় সব Xiaomi, Redmi এবং POCO ডিভাইসে এটি কাজ করে।
+### ✨ Key Features
+* **No PC Required:** Unlock your bootloader directly using the APK.
+* **Fast Process:** Optimized for speed and efficiency.
+* **Universal Support:** Compatible with Android 5.0 to Android 14+.
+* **Secure:** Built-in Xiaomi account verification.
 
 ---
 
-### 👨‍💻 ডেভেলপার পরিচিতি
+### 📊 Application Statistics
+| Feature | Details |
+| :--- | :--- |
+| 📱 **Support Range** | Android 5.0 - 14 |
+| 🛡️ **Device Support** | 100% Mobile (Xiaomi/Redmi/POCO) |
+| ✅ **Success Rate** | 98% Proven Success |
+| 📅 **Last Release** | February 2026 |
+
+---
+
+### 🛠️ Professional Installation Guide
+
+<details>
+<summary><b>Step 1: Preparation (Click to Expand)</b></summary>
+Download the APK and enable "Unknown Sources" in Settings → Security. Ensure your phone is connected to the internet.
+</details>
+
+<details>
+<summary><b>Step 2: Account Binding (Click to Expand)</b></summary>
+Login with your authorized Xiaomi account. Ensure the account is linked to the device you wish to unlock.
+</details>
+
+<details>
+<summary><b>Step 3: Developer Settings (Click to Expand)</b></summary>
+Enable Developer Options by tapping "MIUI Version" 7 times. Toggle **OEM Unlocking** and **USB Debugging** to ON.
+</details>
+
+<details>
+<summary><b>Step 4: Execution (Click to Expand)</b></summary>
+Enter Fastboot mode (Vol Down + Power) and hit "Start Unlock". 
+> **⚠️ Warning:** All user data will be wiped during the process. Backup is mandatory.
+</details>
+
+---
+
+### 📥 Download Center
+Get the latest binaries from the official sources below:
+
 <div align="center">
-  <table>
+  <a href="https://github.com/yeasinulhoquetuhin/Mi-Unlock-Tool/releases">
+    <img src="https://img.shields.io/badge/GitHub-Latest_Release-FF6B00?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_DIRECT_LINK_HERE">
+    <img src="https://img.shields.io/badge/Direct-Download_APK-white?style=for-the-badge&logo=android&logoColor=FF6B00" />
+  </a>
+</div>
+
+---
+
+### 👨‍💻 Lead Developer
+<div align="center">
+  <table border="0">
     <tr>
-      <td align="center">
-        <img src="https://github.com/yeasinulhoquetuhin.png" width="100px;" alt=""/><br />
-        <sub><b>Yeasinul Hoque Tuhin</b></sub><br />
-        Android Specialist & Content Creator
+      <td align="center" width="150">
+        <img src="https://github.com/yeasinulhoquetuhin.png" width="120" style="border-radius:50%" />
       </td>
       <td>
-        • ৫+ বছর ধরে Android মডিফিকেশন নিয়ে কাজ করছি।<br />
-        • কাস্টম রম এবং রুটিং এক্সপার্ট।<br />
-        • YouTube: <b>Tuhin Droid Zone</b>
+        <strong>Yeasinul Hoque Tuhin</strong><br />
+        <em>Android Developer & Reverse Engineer</em><br />
+        Expertise in VPS Management, Mobile Security, and Custom ROMs.<br />
+        5+ Years of Experience in Android Modification.
       </td>
     </tr>
   </table>
 </div>
 
-### 🤝 আমাদের সাথে যুক্ত হোন
-<p align="left">
-  <a href="https://www.youtube.com/@TuhinDroidZone" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="https://t.me/+sPqgUAVp-X5iOWU9" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://info.tuhinbro.website" target="_blank"><img src="https://img.shields.io/badge/Website-FF6B00?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+### 🌐 Connect & Support
+<p align="center">
+  <a href="https://www.youtube.com/@TuhinDroidZone"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/+sPqgUAVp-X5iOWU9"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://info.tuhinbro.website"><img src="https://img.shields.io/badge/Website-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 <p align="center">
-  <i>দয়া করে মনে রাখবেন, এটি একটি আনঅফিসিয়াল টুল। ব্যবহারের পূর্বে সমস্ত দায়িত্ব আপনার।</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer" />
 </p>
