@@ -64,7 +64,7 @@ Enter Fastboot mode (Vol Down + Power) and hit "Start Unlock".
 Get the latest binaries from the official sources below:
 
 <div align="center">
-  <a href="https://github.com/yeasinulhoquetuhin/Mi-Unlock-Tool/releases">
+  <a href="https://github.com/yeasinulhoquetuhin/Mi-Unlock-Tool/releases/tag/Apk">
     <img src="https://img.shields.io/badge/GitHub-Latest_Release-FF6B00?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_DIRECT_LINK_HERE">
