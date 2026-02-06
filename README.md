@@ -64,10 +64,10 @@ Enter Fastboot mode (Vol Down + Power) and hit "Start Unlock".
 Get the latest binaries from the official sources below:
 
 <div align="center">
-  <a href="https://github.com/yeasinulhoquetuhin/Mi-Unlock-Tool/releases/tag/Apk">
+  <a href="https://github.com/yeasinulhoquetuhin/Mi-Unlock-Tool/releases">
     <img src="https://img.shields.io/badge/GitHub-Latest_Release-FF6B00?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_DIRECT_LINK_HERE">
+  <a href="https://release-assets.githubusercontent.com/github-production-release-asset/1151462419/35fef9e1-f4c7-4ff5-8ec9-7421b235b426?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-02-06T15%3A31%3A14Z&rscd=attachment%3B+filename%3DMi.Unlock.Tool.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-02-06T14%3A30%3A34Z&ske=2026-02-06T15%3A31%3A14Z&sks=b&skv=2018-11-09&sig=c7pbXgrfJqOj%2BwxXyzQfszd4yZOWmCVolEwPCyJhaRg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3MDM4ODY2MiwibmJmIjoxNzcwMzg4MzYyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.92Sft5kdP0JnoVMK5WYr3GSaqsDGbN7r_X6l-ejo9Xs&response-content-disposition=attachment%3B%20filename%3DMi.Unlock.Tool.apk&response-content-type=application%2Fvnd.android.package-archive">
     <img src="https://img.shields.io/badge/Direct-Download_APK-white?style=for-the-badge&logo=android&logoColor=FF6B00" />
   </a>
 </div>
