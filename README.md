@@ -20,7 +20,7 @@ Xiaomi Devices Bootloader Unlocker Android APK
 ### ✨ Key Features
 * **No PC Required:** Unlock your bootloader directly using the APK.
 * **Fast Process:** Optimized for speed and efficiency.
-* **Universal Support:** Compatible with Android 5.0 to Android 16++.
+* **Universal Support:** Compatible with Android 5.0 to Android 16+.
 * **Secure:** Built-in Xiaomi account verification.
 
 ---
@@ -28,7 +28,7 @@ Xiaomi Devices Bootloader Unlocker Android APK
 ### 📊 Application Statistics
 | Feature | Details |
 | :--- | :--- |
-| 📱 **Support Range** | Android 5.0 - 14 |
+| 📱 **Support Range** | Android 5.0 - 16+ |
 | 🛡️ **Device Support** | 100% Mobile (Xiaomi/Redmi/POCO) |
 | ✅ **Success Rate** | 98% Proven Success |
 | 📅 **Last Release** | February 2026 |
