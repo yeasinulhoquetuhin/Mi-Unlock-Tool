@@ -2,7 +2,7 @@
 Xiaomi Devices Bootloader Unlocker Android APK
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Mi+Unlock+Tool;Android+Bootloader+Unlocker;No+PC+Required!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Mi+Unlock+Tool;Android+Bootloader+Unlocker;No+PC+Required!+⚡" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/github/v/release/yeasinulhoquetuhin/Mi-Unlock-Tool?style=for-the-badge&color=FF6B00&logo=github" />
