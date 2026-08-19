@@ -1,3 +1,5 @@
+
+
 # Mi Unlock Tool
 Xiaomi Devices Bootloader Unlocker Android APK
 
@@ -44,7 +46,7 @@ Download the APK and enable "Unknown Sources" in Settings → Security. Ensure y
 
 <details>
 <summary><b>Step 2: Account Binding (Click to Expand)</b></summary>
-Login with your authorized Xiaomi account. Ensure the account is linked to the device you wish to unlock.
+Log in with your authorized Xiaomi account. Ensure the account is linked to the device you wish to unlock.
 </details>
 
 <details>
